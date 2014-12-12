@@ -11,6 +11,6 @@ I used it for my simple Esperanto Dictionary project.
 https://twitter.com/EsperantoDict
 
 Sample usage of program
-TwitterPoster.exe -i <input file name> -t "#tag1 #tag2"
+TwitterPoster.exe -i [input file name] -t "#tag1 #tag2"
 
 On execution program takes a line, and generates and sends message, and writes to disk on which line posted last, and takes the next line on the next run.
