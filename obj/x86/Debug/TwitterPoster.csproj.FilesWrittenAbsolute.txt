@@ -1,0 +1,11 @@
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/Newtonsoft.Json.dll
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/TweetSharp.Mono.dll
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/TweetSharp.Mono.dll.mdb
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/Hammock.Mono.dll
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/Hammock.Mono.dll.mdb
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/TwitterPoster.config
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/TwitterPoster.exe.mdb
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/bin/Debug/TwitterPoster.exe
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/obj/x86/Debug/TwitterPoster.exe
+/Users/murat/Dropbox/Developer/src/TwitterApps/TwitterPoster/obj/x86/Debug/TwitterPoster.exe.mdb
